@@ -40,6 +40,14 @@ At **Outlier** I have worked across six projects - designing evaluation rubrics,
 
 ---
 
+### Currently
+
+- Sharpening my evaluation and annotation toolkit, one project at a time
+- Exploring RLHF-style preference evaluation and multimodal tasks
+- Open to remote roles in AI training, data annotation, and model evaluation
+
+---
+
 ### Featured projects
 
 | Project | What it is |
@@ -78,6 +86,14 @@ At **Outlier** I have worked across six projects - designing evaluation rubrics,
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuradha9232&hide_border=true&ring=1F4E78&fire=2E75B6&currStreakLabel=1F4E78" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuradha9232&bg_color=ffffff&color=1F4E78&line=2E75B6&point=1F4E78&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuradha9232&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 ---
